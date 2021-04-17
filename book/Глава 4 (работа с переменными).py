@@ -1,0 +1,5 @@
+a = float(input("введите значение: "))
+b = float(input("введите значение: "))
+c = float(input("введите значение: "))
+primer = (a / (b * c))
+print("%.4f" % primer)
